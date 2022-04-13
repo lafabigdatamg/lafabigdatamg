@@ -30,7 +30,7 @@ Skills: Python / SQL / Engenharia de Dados / Análise de Dados
 </div>
 
 
-## Atuação profissional
+## Atuação profissional (mais recentes)
 
 :computer: Engenheiro de Dados - Unimed Fortaleza (03.2021 - Atual)
 
