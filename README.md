@@ -15,8 +15,12 @@ Unimed Fortaleza      :active,, 2021-03-01,2022-12-31
 
 ```
 
-Bacharel em Informática, MBA em Gerenciamento de Projetos e pós-graduando em Banco de Dados e Big Data. Profissional com mais de 20 anos de experiência em tecnologia da informação, tendo trabalhado em grandes organizações públicas e privadas nos segmentos de saúde, varejo, telecomunicações, construção civil, indústria, bancos, educação, consultoria e fábrica de software. 
+Bacharel em Informática, MBA em Gerenciamento de Projetos e pós-graduando em Banco de Dados e Big Data. 
+
+Profissional com mais de 20 anos de experiência em tecnologia da informação, tendo trabalhado em grandes organizações públicas e privadas nos segmentos de saúde, varejo, telecomunicações, construção civil, indústria, bancos, educação, consultoria e fábrica de software.
+
 Como analista de negócios, atuei por 10 anos na implantação, consultoria e sustentação do sistema ERP Corpore RM da TOTVS, com ênfase nos módulos de backoffice (Departamento Pessoal, Automação de Ponto, Recursos Humanos, Segurança e Medicina do Trabalho, Financeiro, Contabilidade, Compras).
+
 Nós últimos 8 anos venho atuando fortemente na área de engenharia de dados, business intelligence, administração de banco de dados, data quality, análise, arquitetura de dados e Big Data.
 
 Skills: Python / SQL / Engenharia de Dados / Análise de Dados
